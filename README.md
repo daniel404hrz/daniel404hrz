@@ -21,20 +21,12 @@ const daniel404hrz = {
   }
 };
 ```
-<h3 align="center">Experiencia:<h3>
-
-Durante mi trayectoria profesional, he tenido la oportunidad de trabajar en diversos proyectos, donde he aplicado mis habilidades técnicas y mi capacidad para resolver problemas complejos. Destaco mi participación en el desarrollo del front-end en la aplicación MedConnect, una plataforma dedicada a la gestión de consultas médicas. Esta experiencia me permitió trabajar en colaboración con un equipo multidisciplinario y demostrar mi capacidad para adaptarme rápidamente a nuevos entornos.
-
-Habilidades
-
-Además de mis habilidades técnicas, he desarrollado habilidades blandas como la comunicación efectiva, el trabajo en equipo, la adaptabilidad y la empatía. Estas habilidades me permiten colaborar de manera efectiva en entornos de desarrollo ágiles y dinámicos.
-
-Objetivos
+<h3 align="center">Objetivos:<h3>
 
 Estoy en constante búsqueda de nuevas oportunidades para aprender y crecer profesionalmente como desarrolladora Full Stack. Me apasiona el desarrollo web y me entusiasma formar parte de proyectos innovadores que tengan un impacto positivo en la sociedad. Estoy abierto(a) a nuevos desafíos y seguro(a) de que mi combinación única de habilidades técnicas y experiencia en ingeniería civil me permite aportar un valor significativo a cualquier equipo de desarrollo.
 
-Contacto
-
+<h3 align="center">Contacto:<h3>
+  
 Si tienes alguna pregunta, sugerencia o te gustaría hablar sobre oportunidades de colaboración, no dudes en contactarme por correo electrónico daniel.404hrz@gmail.com.
 
 ¡Gracias por visitar mi perfil! Espero tener la oportunidad de trabajar juntos y contribuir al éxito de tu proyecto.
