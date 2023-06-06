@@ -1,23 +1,27 @@
-# Daniel Henández
-Full Stack Web Developer
+
+<h1 align="center">¡Hey 👋! Soy Daniel Henández 👩🏻‍💻</h1>
+<h3 align="center">El Salvador, San Salvador🌎</h3><br/>
+<h3>Full Stack Web Developer<h3>
 
 ¡Hola! Soy Daniel Hernández, soy un apasionado en el desarrolladora web con experiencia en la creación de aplicaciones modernas y robustas. Mi enfoque se centra en el desarrollo de soluciones web eficientes que brinden una excelente experiencia al usuario.
 
-Tecnologías principales
-
-JavaScript | 
-React | 
-Redux | 
-Node.js | 
-Express | 
-PostgreSQL | 
-Sequelize | 
-HTML | 
-CSS | 
-Tailwind CSS | 
-Redux Toolkit | 
-
-Experiencia
+Tecnologías principales:
+```js
+const daniel404hrz = {
+  
+  tech: {
+    languages: [ "JavaScript"],
+    database: [ "PostgreSQL" ],
+    backEnd: [ "NodeJs", "Express", "Sequelize" ],
+    frontEnd: [ "React", "Next","Redux", "Hooks", "Material UI", "CSS modules" ,"Tailwind CSS"],
+    inProgress: [ "Python", "CiberSecurity" ]
+  },
+  contact: {
+    email: "daniel.404hrz@gmail.com"
+  }
+};
+```
+<h3 align="center">Experiencia:<h3>
 
 Durante mi trayectoria profesional, he tenido la oportunidad de trabajar en diversos proyectos, donde he aplicado mis habilidades técnicas y mi capacidad para resolver problemas complejos. Destaco mi participación en el desarrollo del front-end en la aplicación MedConnect, una plataforma dedicada a la gestión de consultas médicas. Esta experiencia me permitió trabajar en colaboración con un equipo multidisciplinario y demostrar mi capacidad para adaptarme rápidamente a nuevos entornos.
 
