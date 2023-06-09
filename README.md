@@ -3,7 +3,7 @@
 <h3 align="center">El Salvador, San Salvador🌎</h3><br/>
 <h3>Full Stack Web Developer<h3>
 
-¡Hola! Soy Daniel Hernández, soy un apasionado en el desarrolladora web con experiencia en la creación de aplicaciones modernas y robustas. Mi enfoque se centra en el desarrollo de soluciones web eficientes que brinden una excelente experiencia al usuario.
+¡Hola! Soy Daniel Hernández, soy un apasionado en el desarrollo web con experiencia en la creación de aplicaciones modernas y robustas. Mi enfoque se centra en el desarrollo de soluciones web eficientes que brinden una excelente experiencia al usuario.
 
 Tecnologías principales:
 ```js
